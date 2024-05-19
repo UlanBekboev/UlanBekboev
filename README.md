@@ -9,29 +9,29 @@
 ___
 ### Языки программирования и библиотеки
 
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo.svg)
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png){width=50px height=50px}
+![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/TypeScript_Logo.svg){width=50px height=50px}
+![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg){width=50px height=50px}
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg){width=50px height=50px}
 
 ### Фреймворки и библиотеки
 
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg){width=50px height=50px}
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg){width=50px height=50px}
+![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png){width=50px height=50px}
 
 ### Инструменты и платформы
 
-![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
-![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg)
-![JSON](https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg)
-![REST API](https://upload.wikimedia.org/wikipedia/commons/6/6b/REST_API_icon.svg)
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg){width=50px height=50px}
+![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg){width=50px height=50px}
+![JSON](https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg){width=50px height=50px}
+![REST API](https://upload.wikimedia.org/wikipedia/commons/6/6b/REST_API_icon.svg){width=50px height=50px}
 
 <hr style="border: 3px solid gray;">
 
 ### Для связи
 ___
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/UlanBekbooUulu)
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/UlanBekbooUulu){width=50px height=50px}
 
 <!--
 **UlanBekboev/UlanBekboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
