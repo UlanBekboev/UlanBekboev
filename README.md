@@ -1,9 +1,6 @@
-### <div align="center">
-  Всем привет, меня зовут Улан! 👋
-</div>
-<hr style="border: 1px solid black;">
+### Всем привет, меня зовут Улан! 👋
 
-:adult: Обо мне
+## Обо мне
 
 Я фронтенд разработчик из Кыргызстана :national_park:
 
@@ -13,35 +10,30 @@
   * :computer: Я сейчас активно ищу работу. Вот моё [резюме](https://hh.ru/applicant/resumes/view?resume=36072e58ff0c29faab0039ed1f5163704e4f71).
  
 
-<hr style="border: 3px solid gray;">
+<hr>
 
-### :hammer_and_wrench: Мой стек
-<hr style="border: 1px solid black;">
-### Языки программирования и библиотеки
+## :hammer_and_wrench: Мой стек
 
 <div display = "inline">
-<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/html/html.png" alt="HTML" width="0" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/css/css.png" alt="CSS" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/373f8fa9f7893a36b2c1b7c2543f43e11d70a78a/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/json/json.png" alt="JSON" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/rest-api/rest-api.png" alt="REST API" width="40" height="40">  
+  <div display = "inline">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">    
+<img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="50">
+<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/json/json.png" alt="JSON" width="50">
 </div>
 
-<hr style="border: 3px solid gray;">
+<hr>
 
-### <div align="center">
-      Связь со мной
-  </div>
-  <hr style="border: 1px solid black;">
+## Связь со мной 📫
 
 <div display = "inline">
-  <a href="https://t.me/yourusername">
-    <img src="https://raw.githubusercontent.com/github/explore/9f4d442c41e850bc6d1bf39d7d259c294c8b6c3e/topics/telegram/telegram.png" alt="Telegram" width="40" height="40">
+  <a style="display: flex; align-items: center" href="https://t.me/UlanBekbooUulu">
+    <img style="margin-right: 5px;" src="./telegram.svg" alt="Telegram" width="40">
+    Telegram
   </a>
 </div>
 <!--
