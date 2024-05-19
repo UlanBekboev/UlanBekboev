@@ -1,7 +1,7 @@
-<div align="center">
-### Всем привет, меня зовут Улан! 👋
+### <div align="center">
+  Всем привет, меня зовут Улан! 👋
 </div>
-___
+<hr style="border: 1px solid black;">
 
 :adult: Обо мне
 
@@ -16,32 +16,34 @@ ___
 <hr style="border: 3px solid gray;">
 
 ### :hammer_and_wrench: Мой стек
-___
+<hr style="border: 1px solid black;">
 ### Языки программирования и библиотеки
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg" alt="TypeScript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="HTML" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="CSS" width="50" height="50"/>
+<div display = "inline">
+<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/html/html.png" alt="HTML" width="0" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/css/css.png" alt="CSS" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/373f8fa9f7893a36b2c1b7c2543f43e11d70a78a/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/json/json.png" alt="JSON" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/rest-api/rest-api.png" alt="REST API" width="40" height="40">  
+</div>
 
-### Фреймворки и библиотеки
+<hr style="border: 3px solid gray;">
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg" alt="Node.js" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" alt="Express.js" width="50" height="50"/>
+### <div align="center">
+      Связь со мной
+  </div>
+  <hr style="border: 1px solid black;">
 
-### Инструменты и платформы
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="Git" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/json.svg" alt="JSON" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/api.svg" alt="REST API" width="50" height="50"/>
-
-### Связь со мной
-
-<a href="https://t.me/yourusername">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="Telegram" width="50" height="50"/>
-</a>
+<div display = "inline">
+  <a href="https://t.me/yourusername">
+    <img src="https://raw.githubusercontent.com/github/explore/9f4d442c41e850bc6d1bf39d7d259c294c8b6c3e/topics/telegram/telegram.png" alt="Telegram" width="40" height="40">
+  </a>
+</div>
 <!--
 **UlanBekboev/UlanBekboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
